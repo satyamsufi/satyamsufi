@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @satyamsufi
-- 👀 I’m interested in testing automation   
-- 🌱 I’m currently learning API testing 
+- 👀 I’m interested in automation testing   
 - 💞️ I’m looking to collaborate on QA testing projects
 - 📫 reach me at satyam.tiwari@cloudsufi.com
 
